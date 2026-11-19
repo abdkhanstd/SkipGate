@@ -1,0 +1,13 @@
+{
+  "model": "models/Llama-3.2-3B-Instruct",
+  "task": "mmlu",
+  "n": 4000,
+  "offset": 0,
+  "accuracy": 0.60275,
+  "finished_rate": 0.98625,
+  "mean_gen_tokens": 203.29875,
+  "mean_prompt_tokens": 174.56925,
+  "max_new_tokens": 640,
+  "runtime_s": 4002.6980152130127,
+  "peak_gpu_mem_gb": 16.3411865234375
+}

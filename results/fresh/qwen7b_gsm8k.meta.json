@@ -1,0 +1,13 @@
+{
+  "model": "models/qwen7b",
+  "task": "gsm8k",
+  "n": 4000,
+  "offset": 4000,
+  "accuracy": 0.943,
+  "finished_rate": 0.99875,
+  "mean_gen_tokens": 230.0395,
+  "mean_prompt_tokens": 96.9615,
+  "max_new_tokens": 640,
+  "runtime_s": 26716.344127893448,
+  "peak_gpu_mem_gb": 17.74436330795288
+}

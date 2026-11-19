@@ -1,0 +1,13 @@
+{
+  "model": "models/qwen1.5b",
+  "task": "mmlu",
+  "n": 4000,
+  "offset": 4000,
+  "accuracy": 0.5345,
+  "finished_rate": 0.99175,
+  "mean_gen_tokens": 217.013,
+  "mean_prompt_tokens": 156.2925,
+  "max_new_tokens": 640,
+  "runtime_s": 7216.985764026642,
+  "peak_gpu_mem_gb": 21.00246238708496
+}

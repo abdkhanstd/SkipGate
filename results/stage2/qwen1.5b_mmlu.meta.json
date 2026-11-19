@@ -1,0 +1,11 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "task": "mmlu",
+  "n": 4000,
+  "accuracy": 0.4855,
+  "finished_rate": 0.90525,
+  "mean_gen_tokens": 208.65475,
+  "mean_prompt_tokens": 153.517,
+  "runtime_s": 2497.043627500534,
+  "peak_gpu_mem_gb": 9.140959739685059
+}

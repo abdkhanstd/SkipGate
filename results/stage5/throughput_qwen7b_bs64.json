@@ -1,0 +1,33 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "task": "gsm8k",
+  "new_tokens": 128,
+  "n_single": 32,
+  "single_prefill_s": 0.036689760876470245,
+  "single_prefill_s_sd": 0.0035212848141932015,
+  "single_decode_s_per_token": 0.03133016641860861,
+  "single_decode_s_per_token_sd": 0.0036809948127940004,
+  "mean_prompt_tokens": 97.78125,
+  "gpu_mem_other_gb": null,
+  "n": 256,
+  "batched_bs": 64,
+  "repeats": 3,
+  "batched_gen_tokens_per_s": 949.273397568586,
+  "batched_gen_tokens_per_s_sd": 0.4113205749989118,
+  "batched_runs": [
+    949.483332379337,
+    948.7994719720241,
+    949.5373883543973
+  ],
+  "batched_prefill_s_per_prompt_token": 0.0003267941528695632,
+  "batched_prompt_weight": 0.31021699580003814,
+  "n_prompt_tokens_batched": 23968,
+  "batched_decode_runs": [
+    1218.6455749389186,
+    1217.5104020096849,
+    1218.7353255376258
+  ],
+  "batched_decode_tokens_per_s": 1218.2971008287432,
+  "batched_decode_tokens_per_s_sd": 0.6827774647883332,
+  "batched_prompt_weight_decode": 0.3981323690087739
+}

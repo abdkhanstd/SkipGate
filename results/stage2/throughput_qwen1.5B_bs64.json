@@ -1,0 +1,13 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "task": "gsm8k",
+  "n": 256,
+  "single_prefill_s": 0.028783450252376497,
+  "single_decode_s_per_token": 0.026364442167426144,
+  "single_total_s_per_query": 6.047147384786513,
+  "mean_prompt_tokens": 89.25,
+  "mean_gen_tokens": 229.5,
+  "batched_bs": 64,
+  "batched_s_per_query": 0.15299607979704888,
+  "batched_gen_tokens_per_s": 1219.7003691044865
+}

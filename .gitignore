@@ -1,0 +1,3 @@
+*.qemb*.npy
+__pycache__/
+*.pyc

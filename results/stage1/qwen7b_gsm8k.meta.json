@@ -1,0 +1,11 @@
+{
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "task": "gsm8k",
+  "n": 4000,
+  "accuracy": 0.8715,
+  "finished_rate": 0.8725,
+  "mean_gen_tokens": 220.24075,
+  "mean_prompt_tokens": 96.76125,
+  "runtime_s": 1952.7924563884735,
+  "peak_gpu_mem_gb": 15.099656105041504
+}

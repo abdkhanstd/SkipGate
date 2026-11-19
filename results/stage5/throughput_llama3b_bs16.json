@@ -1,0 +1,33 @@
+{
+  "model": "models/Llama-3.2-3B-Instruct",
+  "task": "gsm8k",
+  "new_tokens": 128,
+  "n_single": 32,
+  "single_prefill_s": 0.029722327788476832,
+  "single_prefill_s_sd": 0.0037071966925438697,
+  "single_decode_s_per_token": 0.028614955922399873,
+  "single_decode_s_per_token_sd": 0.003528425504756573,
+  "mean_prompt_tokens": 117.9375,
+  "gpu_mem_other_gb": null,
+  "n": 256,
+  "batched_bs": 16,
+  "repeats": 3,
+  "batched_gen_tokens_per_s": 539.2694575499316,
+  "batched_gen_tokens_per_s_sd": 3.6968504306020833,
+  "batched_runs": [
+    543.0784349229993,
+    539.0339420911149,
+    535.6959956356807
+  ],
+  "batched_prefill_s_per_prompt_token": 0.00014312197333281364,
+  "batched_prompt_weight": 0.0771813089226622,
+  "n_prompt_tokens_batched": 29250,
+  "batched_decode_runs": [
+    579.0081957434469,
+    574.3772087838606,
+    570.5590944201215
+  ],
+  "batched_decode_tokens_per_s": 574.6481663158096,
+  "batched_decode_tokens_per_s_sd": 4.231062724782596,
+  "batched_prompt_weight_decode": 0.08224477953520155
+}

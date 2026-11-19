@@ -1,0 +1,13 @@
+{
+  "model": "models/llama3b",
+  "task": "gsm8k",
+  "n": 4000,
+  "offset": 0,
+  "accuracy": 0.84125,
+  "finished_rate": 0.997,
+  "mean_gen_tokens": 164.198,
+  "mean_prompt_tokens": 117.413,
+  "max_new_tokens": 640,
+  "runtime_s": 11052.290494918823,
+  "peak_gpu_mem_gb": 24.072080612182617
+}

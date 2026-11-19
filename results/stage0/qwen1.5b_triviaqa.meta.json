@@ -1,0 +1,11 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "task": "triviaqa",
+  "n": 4000,
+  "accuracy": 0.3405,
+  "finished_rate": 0.99975,
+  "mean_gen_tokens": 4.36525,
+  "mean_prompt_tokens": 45.057,
+  "runtime_s": 107.37820315361023,
+  "peak_gpu_mem_gb": 3.4270009994506836
+}
